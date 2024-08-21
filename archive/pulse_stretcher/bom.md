@@ -1,0 +1,13 @@
+|qty|item|
+|--|--|
+|2|https://uk.rs-online.com/web/p/coaxial-connectors/5464897|
+|1|https://uk.rs-online.com/web/p/leds/2286004|
+|1|https://uk.rs-online.com/web/p/through-hole-resistors/0148304|
+|1|https://uk.rs-online.com/web/p/potentiometers/5220489|
+|1|https://uk.rs-online.com/web/p/through-hole-resistors/7077745|
+|1|https://uk.rs-online.com/web/p/usb-connectors/0252078|
+|1|https://uk.rs-online.com/web/p/tantalum-capacitors/5382133|
+|1|https://uk.rs-online.com/web/p/tantalum-capacitors/5381988|
+|1|https://uk.rs-online.com/web/p/monostable-multivibrators/7092071|
+|1|https://uk.rs-online.com/web/p/dil-sockets/6742432|
+|1|https://uk.rs-online.com/web/p/matrix-boards/5186610|
